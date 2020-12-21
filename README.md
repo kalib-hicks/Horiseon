@@ -27,7 +27,7 @@ providing helpful comments to improve code readability, compacting code to only 
 To navigate this website, there are clickable links to three different sections at the top right of the site. Clicking the logo on the top left will take you to the homepage. No external links from this site exist. 
 
 
-![Horiseon site full image](./develop/assets/images/horiseon1.png)
+![Horiseon site full image](./assets/images/horiseon1.png)
 
 
 ​
