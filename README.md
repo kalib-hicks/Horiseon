@@ -1,18 +1,44 @@
-#code refactor
+# Horiseon - Search Engine Optimization; Online Reputation Management; Social Media Marketing
+​
+## Description 
+​
+Built with:
+CSS
+HTML
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+- - -
 
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+This project served as an introduction into editing and compacting http and css code given a set of criteria to approach website accesibility standards. Demands included: compacting 
+html and css code, including alt text to images, adding comments to the code for readability, making sure all links work correctly, and adhering to the provided mock up of what
+the finished product should look like.
+
+Skills gained from this project include: writing an adequate README.md file, managing a github repository, making sure website is adquately suited for accesibility standards,
+providing helpful comments to improve code readability, compacting code to only include necessary elements, and practicing html and css methods.
+
+
+​- - -
+
+​Project link: https://kalib-hicks.github.io/Horiseon
+
+
+## Usage
+
+To navigate this website, there are clickable links to three different sections at the top right of the site. Clicking the logo on the top left will take you to the homepage. No external links from this site exist. 
+
+```md
+![Horiseon site full image](assets/images/horiseon1)
+```
+
+​
+## Credits
+​
+-https://github.com/coding-boot-camp/urban-octo-telegram : provided initial files to begin the project.
+​
+- - - 
+
+tutorials & helpful links: 
+
+-https://www.davidmacd.com/blog/alternate-text-for-css-background-images.html 
+
+-https://daveceddia.com/deploy-git-repo-to-server/
