@@ -4,12 +4,12 @@
     margin: 0;
 }
 
-/*Body text is white*/
+/*style for body*/
 body {
     background-color: #d9dcd6;
 }
 
-
+/*styling the header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -74,6 +74,11 @@ p {
     margin-left: 20px;
 }
 
+.content p {
+    font-size: 23px;
+}
+
+/*adding styles to the benefit class*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,12 +90,32 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead, .benefit-cost, .benefit-brand {
+.benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
+.benefit-brand {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-cost{
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-lead h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit-cost h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+ .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -123,7 +148,10 @@ p {
     max-width: 150px;
 }
 
+/*styles for main page information*/    
 .search-engine-optimization {
+    text-align: left;
+    font-size: large;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -133,6 +161,8 @@ p {
 }
 
 .online-reputation-management {
+    text-align: left;
+    font-size: large;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -142,6 +172,8 @@ p {
 }
 
 .social-media-marketing {
+    text-align: left;
+    font-size: large;
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -177,6 +209,7 @@ p {
     font-size: 36px;
 }
 
+/*styles for the footer*/
 .footer {
     padding: 30px;
     clear: both;
